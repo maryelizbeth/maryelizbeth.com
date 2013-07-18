@@ -1,5 +1,5 @@
 Maryelizbeth::Application.routes.draw do
 
-  map.root :controller => 'static', :action => :index
+  get 'static/index'
 
 end
