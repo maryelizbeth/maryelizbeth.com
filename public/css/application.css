@@ -1,5 +1,10 @@
 h1, .heading{ 
 	font-size: 92px; 
-	font-family: "Helvetica";  
+	font-family: "Helvetica";
+	padding-top: 25px;
+	padding-left: 250px; 
 	padding-bottom: 50px;
+	margin-bottom: 50px;
+	background-color: #E0C2FF;
+	background-image: url("../images/noisy-texture-heading.png");
 }
