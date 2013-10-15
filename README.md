@@ -1,4 +1,4 @@
 maryelizbeth.com
 ================
 
-personal website
+a website about myself made by myself: maryelizbeth.com
