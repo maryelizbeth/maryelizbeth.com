@@ -10,3 +10,5 @@ resource "random_id" "random" {
 output "random" {
   value = "${random_id.random.hex}"
 }
+
+# adding a comment here
